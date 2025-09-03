@@ -1,4 +1,4 @@
-# 📦 KlikMart Churn Prediction
+# KlikMart Churn Prediction
 
 ## 📌 Deskripsi Proyek
 KlikMart adalah perusahaan E-commerce di Indonesia yang menyediakan berbagai kebutuhan sehari-hari secara online. Sejak berdiri pada tahun 2016, KlikMart telah menarik jutaan pelanggan berkat layanan pengiriman langsung dari gudang ke rumah dan program loyalitas seperti cashback dan promo.
